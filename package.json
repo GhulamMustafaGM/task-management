@@ -17,6 +17,7 @@
     },
     "dependencies": {
         "@tailwindcss/ui": "^0.7.2",
-        "alpinejs": "^3.2.2"
+        "alpinejs": "^3.2.2",
+        "cross-env": "^7.0.3"
     }
 }
