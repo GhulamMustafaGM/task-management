@@ -20,6 +20,7 @@
         "alpinejs": "^3.2.2",
         "cross-env": "^7.0.3",
         "postcss-import": "^14.0.2",
-        "resolve-url-loader": "^4.0.0"
+        "resolve-url-loader": "^4.0.0",
+        "tailwindcss": "^1.9.6"
     }
 }
